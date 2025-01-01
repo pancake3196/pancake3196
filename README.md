@@ -1,29 +1,19 @@
-# 안녕하세요! 👋
+<h1 align="center">Hi 👋, I'm 최준성</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-저는 소프트웨어 개발과 기술에 열정을 가진 도제학교 3학년 학생이자 **학습근로자**입니다. 다양한 백엔드 개발 경험을 쌓고 있으며, **Java**, **Spring Boot**, **JPA Custom Repository**, **QueryDSL**과 관련된 프로젝트 경험이 많습니다. 또한, **MariaDB**, **Oracle** 데이터베이스와 **Linux** 환경에서의 개발을 다뤄본 경험이 있습니다. 항상 새로운 도전에 열려 있고, 협업을 중요하게 생각합니다.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pancake3196&label=Profile%20views&color=0e75b6&style=flat" alt="pancake3196" /> </p>
 
-## 기술 스택:
-- **Java**, **Spring Boot**, **JSP**
-- **HTML**, **CSS**, **JavaScript**
-- **MariaDB**, **Oracle**
-- **JPA Custom Repository**, **QueryDSL**
-- **Linux**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pancake3196" alt="pancake3196" /></a> </p>
 
-## 연락처:
-- **Email**: [jjon6544@gmail.com](mailto:jjon6544@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-# GitHub API를 활용한 최근 활동
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pancake3196&show_icons=true&locale=en&layout=compact" alt="pancake3196" /></p>
 
-<details>
-  <summary>최근 GitHub 활동 보기</summary>
-  
-  **📌 최신 리포지토리:**  
-  [내 최신 리포지토리 보기](https://github.com/<your-github-username>?tab=repositories)
-  
-  **🔍 GitHub API 사용 예시:**  
-  GitHub API를 활용하여 내 리포지토리 목록과 최근 활동을 자동으로 표시할 수 있습니다.
-  
-  **최근 리포지토리 목록 (API 호출 예시):**  
-  ```bash
-  curl https://api.github.com/users/<your-github-username>/repos
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pancake3196&show_icons=true&locale=en" alt="pancake3196" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pancake3196&" alt="pancake3196" /></p>
