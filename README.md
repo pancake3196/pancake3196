@@ -8,3 +8,22 @@
 - **MariaDB**, **Oracle**
 - **JPA Custom Repository**, **QueryDSL**
 - **Linux**
+
+## 연락처:
+- **Email**: [jjon6544@gmail.com](mailto:jjon6544@gmail.com)
+
+
+# GitHub API를 활용한 최근 활동
+
+<details>
+  <summary>최근 GitHub 활동 보기</summary>
+  
+  **📌 최신 리포지토리:**  
+  [내 최신 리포지토리 보기](https://github.com/<your-github-username>?tab=repositories)
+  
+  **🔍 GitHub API 사용 예시:**  
+  GitHub API를 활용하여 내 리포지토리 목록과 최근 활동을 자동으로 표시할 수 있습니다.
+  
+  **최근 리포지토리 목록 (API 호출 예시):**  
+  ```bash
+  curl https://api.github.com/users/<your-github-username>/repos
