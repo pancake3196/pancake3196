@@ -7,5 +7,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pancake3196&show_icons=true&locale=en&layout=compact" alt="pancake3196" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pancake3196&show_icons=true&locale=en" alt="pancake3196" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pancake3196&" alt="pancake3196" /></p>
